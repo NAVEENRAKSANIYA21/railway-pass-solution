@@ -34,7 +34,7 @@ A web-based application designed to simplify and automate the process of applyin
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/your-username/railway-pass-management.git
+   https://github.com/NAVEENRAKSANIYA21/railway-pass-solution.git
 
 
 

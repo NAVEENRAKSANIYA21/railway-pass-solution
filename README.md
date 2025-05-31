@@ -56,4 +56,4 @@ Run the Project
 
 Start Apache and MySQL.
 
-Visit http://localhost/railway-pass-management in your browser.
+Visit http://localhost/rpms in your browser.
